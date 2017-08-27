@@ -1,0 +1,11 @@
+A fast, lightweight binary to png (and back) converter.
+
+
+Why? Because I can. Use your imagination with what you could do with it.
+
+
+Use:
+  bin2png [in] [out]
+  png2bin [in] [out]
+
+
